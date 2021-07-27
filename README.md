@@ -1,5 +1,5 @@
 # JavaScript-snippets
-> Click :star:  if you like the project. Pull Request are highly appreciated. Follow us on [Facebook](https://www.facebook.com/snippetsJS)
+> Alguns exemplos de código Javascript para uso no dia a dia.
 
 ### Table of Contents
 | No. | Questions |
